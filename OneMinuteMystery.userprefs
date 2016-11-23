@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{AB540238-7D01-49BD-B8C9-0723283D29FE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Services/BingSpeechApi.cs">
+    <Files>
+      <File FileName="OneMinuteMystery/ViewModels/MysteryPageViewModel.cs" Line="335" Column="32" />
+      <File FileName="OneMinuteMystery/MysteryPage.xaml.cs" Line="15" Column="1" />
+      <File FileName="OneMinuteMystery/MysteryPage.xaml" Line="3" Column="2" />
+      <File FileName="OneMinuteMystery/Models/VoiceLines.cs" Line="6" Column="5" />
+      <File FileName="OneMinuteMystery/Models/Intents.cs" Line="11" Column="49" />
+      <File FileName="OneMinuteMystery/OneMinuteMysteryPage.xaml" Line="5" Column="32" />
+      <File FileName="iOS/Services/TextToSpeechOMM.cs" Line="19" Column="26" />
+      <File FileName="OneMinuteMystery/Models/SpeechResult.cs" Line="41" Column="49" />
+      <File FileName="iOS/Services/BingSpeechApi.cs" Line="261" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/adamdunn/Projects/OneMinuteMystery/iOS/AudioRecorderService.cs" line="13" column="1" />
+      <Breakpoint file="/Users/adamdunn/Projects/OneMinuteMystery/iOS/Services/AudioService.cs" line="26" column="1" />
+      <Breakpoint file="/Users/adamdunn/Projects/OneMinuteMystery/iOS/Services/TextToSpeech.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OneMinuteMystery.Droid PreferredExecutionTarget="Android.Nexus 4 (Lollipop 2)" />
+  <MonoDevelop.Ide.ItemProperties.OneMinuteMystery.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8909C93B-7FBD-4148-9B84-832942BC4F94" />
+</Properties>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:OneMinuteMystery" x:Class="OneMinuteMystery.OneMinuteMysteryPage">
+<ContentPage.Content>
+		<StackLayout VerticalOptions="CenterAndExpand">
+			<Image  Source="images/house.jpg" />
+			<Label x:Name="lblEnter" Text="Enter House" VerticalOptions="Center" HorizontalOptions="Center" />		
+		</StackLayout>
+
+
+	</ContentPage.Content>
+
+</ContentPage>
